@@ -28,8 +28,7 @@
     </head>
     <body ev:onpageload="scwin.onpageload" ev:onpageunload="scwin.onpageunload">
     	<w2:anchor outerDiv="false" style="width: 100px;height: 23px;" id="">
-    		<xf:label><![CDATA[web 테스트]]></xf:label>
+    		<xf:label><![CDATA[sss]]></xf:label>
     	</w2:anchor>
-    	<w2:textbox label="dddd" style="width: 150px;height: 23px;" id=""></w2:textbox>
     </body>
 </html>
